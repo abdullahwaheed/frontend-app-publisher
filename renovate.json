@@ -15,6 +15,11 @@
     {
       "matchPackageNames": ["node", "npm", "@tinymce/tinymce-react"],
       "enabled": false
+    },
+    {
+      "matchPackagePatterns": ["@edx"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true
     }
   ]
 }
