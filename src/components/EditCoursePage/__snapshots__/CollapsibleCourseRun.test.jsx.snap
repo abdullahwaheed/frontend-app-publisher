@@ -66,7 +66,7 @@ exports[`Collapsible Course Run renders correctly when given a published course 
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -91,6 +91,8 @@ exports[`Collapsible Course Run renders correctly when given a published course 
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -679,7 +681,7 @@ exports[`Collapsible Course Run renders correctly when given an unpublished cour
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -704,6 +706,8 @@ exports[`Collapsible Course Run renders correctly when given an unpublished cour
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -1292,7 +1296,7 @@ exports[`Collapsible Course Run renders correctly when submitting for review 1`]
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -1317,6 +1321,8 @@ exports[`Collapsible Course Run renders correctly when submitting for review 1`]
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -1905,7 +1911,7 @@ exports[`Collapsible Course Run renders correctly when submitting for review and
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -1930,6 +1936,8 @@ exports[`Collapsible Course Run renders correctly when submitting for review and
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -2518,7 +2526,7 @@ exports[`Collapsible Course Run renders correctly with a course run type 1`] = `
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -2543,6 +2551,8 @@ exports[`Collapsible Course Run renders correctly with a course run type 1`] = `
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -3143,7 +3153,7 @@ exports[`Collapsible Course Run renders correctly with external key field enable
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -3168,6 +3178,8 @@ exports[`Collapsible Course Run renders correctly with external key field enable
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
@@ -3792,7 +3804,7 @@ exports[`Collapsible Course Run renders correctly with no fields 1`] = `
                 className="text-primary ml-2"
                 fade={false}
                 fixedWidth={false}
-                flip={null}
+                flip={false}
                 icon={
                   Object {
                     "icon": Array [
@@ -3817,6 +3829,8 @@ exports[`Collapsible Course Run renders correctly with no fields 1`] = `
                 shake={false}
                 size={null}
                 spin={false}
+                spinPulse={false}
+                spinReverse={false}
                 swapOpacity={false}
                 symbol={false}
                 title=""
