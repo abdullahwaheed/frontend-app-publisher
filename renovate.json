@@ -19,7 +19,8 @@
     {
       "matchPackagePatterns": ["@edx"],
       "matchUpdateTypes": ["minor", "patch"],
-      "automerge": true
+      "automerge": true,
+      "automergeSchedule": ["* * * * *"]
     }
   ]
 }
