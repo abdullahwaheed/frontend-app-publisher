@@ -65,7 +65,7 @@
   },
   "devDependencies": {
     "@edx/frontend-build": "9.2.2",
-    "@edx/stylelint-config-edx": "2.3.0",
+    "@edx/stylelint-config-edx": "2.3.2",
     "axios": "0.27.2",
     "axios-mock-adapter": "1.21.4",
     "codecov": "3.8.2",
