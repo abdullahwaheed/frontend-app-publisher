@@ -23,7 +23,7 @@
   },
   "license": "AGPL-3.0",
   "dependencies": {
-    "@edx/brand": "npm:@edx/brand-openedx@1.2.0",
+    "@edx/brand": "npm:@edx/brand-openedx@1.2.1",
     "@edx/frontend-component-footer-edx": "3.5.0",
     "@edx/frontend-platform": "1.15.6",
     "@edx/paragon": "19.14.0",
