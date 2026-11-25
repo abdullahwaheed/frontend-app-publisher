@@ -64,7 +64,7 @@
     "tinymce": "5.10.9"
   },
   "devDependencies": {
-    "@edx/frontend-build": "9.2.2",
+    "@edx/frontend-build": "13.0.14",
     "@edx/stylelint-config-edx": "2.3.3",
     "axios": "0.27.2",
     "axios-mock-adapter": "1.22.0",
